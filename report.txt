@@ -1,0 +1,3 @@
+Name: NITN | Average: 66.00 | Grade: B
+Name: HIMANSHU | Average: 60.00 | Grade: B
+Name: AMAN | Average: 74.33 | Grade: B

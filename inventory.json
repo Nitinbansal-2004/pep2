@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Laptop",
+        "price": 55000.00000000001,
+        "category": "Elec",
+        "quantity": 5
+    },
+    {
+        "name": "Mouse",
+        "price": 550.0,
+        "category": "Elec",
+        "quantity": 10
+    },
+    {
+        "name": "Book",
+        "price": 330.0,
+        "category": "Edu",
+        "quantity": 2
+    },
+    {
+        "name": "Phone",
+        "price": 22000.0,
+        "category": "Elec",
+        "quantity": 1
+    },
+    {
+        "name": "Pen",
+        "price": 22.0,
+        "category": "Edu",
+        "quantity": 0
+    },
+    {
+        "name": "Bag",
+        "price": 1320.0,
+        "category": "Fas",
+        "quantity": 4
+    }
+]
