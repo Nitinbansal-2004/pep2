@@ -11,8 +11,6 @@
 # print total character count of the file. 
 import json
 
-class ProductNotFoundError(Exception):
-    pass
 
 products = [
     {"name":"Laptop","price":50000,"category":"Elec","quantity":5},
