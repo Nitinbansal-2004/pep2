@@ -25,7 +25,7 @@ for i in range(3):
             m2 = float(input(""))
             m3 = float(input(""))
 
-            if not all(0 <= mark <= 100 for mark in (m1, m2, m3)):
+            if not (0 <= m1 <= 100 and 0 <= m2 <= 100 and 0 <= m3 <= 100):
                 raise ValueError("Marks must be between 0 and 100.")
             break
 
